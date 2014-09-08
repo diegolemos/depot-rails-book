@@ -18,3 +18,10 @@ ruby:
     Ruby is the fatest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
   price:        49.50
   image_url:    ruby.png
+
+loremipsum:
+  title:        Lorem Ipsum
+  description:
+    AOiwdja wdaiowdoa wdaiwd awd awod awoidhaiwdaw pvsm ndovpjs se.
+  price:        15.20
+  image_url:    ruby.png
